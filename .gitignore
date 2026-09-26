@@ -26,4 +26,4 @@ yarn-error.log
 /nginx/log/*
 /nginx/conf/default.conf
 /public/uploads/*
-.docker-compose.yml
+docker-compose.yml
